@@ -1,4 +1,5 @@
 📊 Sistema de Inteligência Comercial - Painel de Análise de Vendas
+
 🎯 Sobre o Projeto
 Este projeto é um dashboard interativo de Business Intelligence desenvolvido para analisar as métricas financeiras e operacionais de uma empresa. O objetivo principal é transformar dados de vendas em informações visuais claras, facilitando a tomada de decisão estratégica por parte da equipa de gestão e auditoria.
 
