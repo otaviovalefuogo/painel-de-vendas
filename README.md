@@ -1,23 +1,23 @@
 📊 Sistema de Inteligência Comercial - Painel de Análise de Vendas
 
 🎯 Sobre o Projeto
-Este projeto é um dashboard interativo de Business Intelligence desenvolvido para analisar as métricas financeiras e operacionais de uma empresa. O objetivo principal é transformar dados de vendas em informações visuais claras, facilitando a tomada de decisão estratégica por parte da equipa de gestão e auditoria.
+Este projeto é um dashboard interativo de Business Intelligence desenvolvido para analisar as métricas financeiras e operacionais de uma empresa. O objetivo principal é transformar dados de vendas em informações visuais claras, facilitando a tomada de decisão estratégica por parte da equipa de gestão.
 
 💡 Arquitetura e Experiência do Utilizador (UX/UI)
 O painel foi desenhado para simular o comportamento de uma aplicação web corporativa, fugindo do modelo tradicional de "planilha estática". Os destaques técnicos incluem:
 
-Menu Lateral Fixo (Sidebar): Navegação fluida e intuitiva entre os diferentes ecrãs do relatório.
+Menu Lateral Fixo: Navegação fluida e intuitiva entre os diferentes ecrãs do relatório.
 
-Painel de Filtros Inteligente (Overlay): Criação de uma "gaveta" oculta utilizando Bookmarks (Indicadores) e botões. Permite aplicar filtros complexos (Data, Região e Categoria) sem ocupar espaço útil do ecrã, incluindo um botão rápido para "Limpar Filtros".
+Painel de Filtros Inteligente : Criação de uma "gaveta" oculta utilizando Bookmarks e botões. Permite aplicar filtros complexos (Data, Região e Categoria) sem ocupar espaço útil do ecrã, incluindo um botão rápido para Limpar Filtros.
 
-Contexto Internacional: Dados monetários formatados nativamente em Dólar (USD), respeitando o dataset original e demonstrando adaptabilidade a cenários e dados internacionais.
+Contexto Internacional: Dados monetários formatados nativamente em Dólar , respeitando o dataset original e demonstrando adaptabilidade a cenários e dados internacionais.
 
 🏗️ Estrutura do Sistema
 O relatório está dividido em três camadas analíticas essenciais:
 
 Home Page: Capa de entrada minimalista com botões de navegação direta para os painéis de análise, garantindo uma receção limpa ao utilizador.
 
-Visão Executiva (Overview):
+Visão Executiva :
 
 Indicadores-Chave (KPIs): Faturação Total, Total de Pedidos, Ticket Médio e Itens Vendidos.
 
