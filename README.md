@@ -21,6 +21,7 @@ O relatório está dividido em três camadas analíticas essenciais:
 
 ## ⚙️ Tecnologias e Habilidades Aplicadas
 * **Microsoft Power BI:** Importação, transformação e visualização dos dados.
+* **MySQL:** Banco de dados relacional utilizado como fonte de dados, substituindo o CSV original. Os dados foram importados e estruturados via SQL antes de serem consumidos pelo Power BI.
 * **Linguagem DAX:** Criação de medidas personalizadas e cálculos dinâmicos (Ticket Médio, Contagem Distinta de Pedidos).
 * **Design de Interfaces Corporativas:** Utilização de um layout focado no contraste e alinhamento geométrico, com paleta de cores consistente e foco na legibilidade.
 
